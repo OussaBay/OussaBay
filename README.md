@@ -10,6 +10,3 @@ Skills: REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on new projects idea. 
 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/OussaBay)  
-
-![Profile views](https://gpvc.arturio.dev/OussaBay)  
